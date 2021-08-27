@@ -2,7 +2,7 @@
 
 <a href="https://www.linkedin.com/in/shyam-sundaram/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
-</a>&nbsp;
+</a>
 <a href="mailto:mail.shyam.sundaram@gmail.com">
   <img width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"  />
 </a>
@@ -15,7 +15,7 @@
 &nbsp;:wrench: I'm a very eager learner and love building stuff.</br><br>
 
 ## Skills :gear:
-### Languages /play secret
+### Languages
 - C
 - C++
 - Python
