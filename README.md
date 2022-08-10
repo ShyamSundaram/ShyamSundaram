@@ -26,6 +26,7 @@
 - Tensorflow <img width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tensorflow.svg"  />
 - Flask <img width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flask.svg"  />
 - jQuery <img  width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jquery.svg"  />
+- FastAPI <img  width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/fastapi.svg"  />
 ### Databases
 - SQL
 
