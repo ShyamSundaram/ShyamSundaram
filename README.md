@@ -32,6 +32,12 @@
 
 <br>
 
+## Experience 🕴️
+### Intern at Gap Inc. <br>
+TechOps intern at Gap Inc. Network tool and Automation team. Helped develop server to integrate third-party services utilized into a microservice and expose them as APIs for internal teams and developers to use.
+
+<br><br>
+
 ![Shyam's github stats](https://github-readme-stats.vercel.app/api?username=ShyamSundaram&show_icons=true&hide_border=true&theme=dracula)
 <br />
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ShyamSundaram.ShyamSundaram)
